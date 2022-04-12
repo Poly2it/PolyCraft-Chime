@@ -2,7 +2,14 @@
   "overrides": [
     {
       "predicate": {
-        "name": "ZoyBux"
+        "nbt": {
+          "display": {
+            "Name": {
+              "text": "ZoyBux",
+              "italic": true
+            }
+          }
+        }
       },
       "model": "item/zoybux"
     }
