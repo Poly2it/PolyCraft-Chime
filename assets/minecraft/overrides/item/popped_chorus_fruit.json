@@ -1,0 +1,10 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {MYTHIC_TYPE: "Ancient_Coin"}
+      },
+      "model": "item/ancient_coin"
+    }
+  ]
+}
