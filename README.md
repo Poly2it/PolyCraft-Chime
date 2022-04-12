@@ -1,6 +1,9 @@
 # PolyCraft-Chime
+
 Work-in-progress Chime API resource-pack for the PolyCraft Minecraft server.  
 Not affiliated with Minecraft, Chime, PolyCraft or PolyTopia.
+
+**This resource pack is in a very early stage of development, many features may not work as intended.**
 
 ## Textures
 <table>
