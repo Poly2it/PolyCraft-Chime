@@ -4,10 +4,7 @@
       "predicate": {
         "nbt": {
           "display": {
-            "Name": {
-              "text": "ZoyBux",
-              "italic": true
-            }
+            "Name": '{"extra":[{"text":"ZoyBux"}],"text":""}'
           }
         }
       },
