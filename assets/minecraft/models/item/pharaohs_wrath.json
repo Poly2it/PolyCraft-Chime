@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/qui_qui"
+        "layer0": "item/pharaohs_wrath"
     }
 }

@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+          "Lore": "['{\"text\":\"A Legendary Blade of the First Pharaoh of PolyCraft\"}']"
+        }
+      },
+      "model": "item/pharaohs_wrath"
+    }
+  ]
+}
