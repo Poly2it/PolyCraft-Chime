@@ -1,0 +1,19 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "display": {
+    "Name": "[{\"text\":\"Armored Wings\",\"italic\":false,\"color\":\"gray\"}]",
+    "Lore": [
+      "{\"extra\":[{\"text\":\"A pair of armored wings, presumably\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"text\":\"stiched together with the remains of\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"text\":\"some large flying monsters\"}],\"text\":\"\"}"
+    ]
+  }
+}
+      },
+      "model": "item/armored_wings"
+    }
+  ]
+}

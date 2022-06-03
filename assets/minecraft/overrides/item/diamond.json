@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "MYTHIC_TYPE": "Midjewel"
+}
+      },
+      "model": "item/midjiwel"
+    }
+  ]
+}
