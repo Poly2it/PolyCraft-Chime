@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "display": {
+    "Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"aqua\",\"text\":\"Fiji Water\"}],\"text\":\"\"}"
+  }
+}
+      },
+      "model": "item/fiji_water"
+    }
+  ]
+}

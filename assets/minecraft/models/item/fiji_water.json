@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/empty",
+        "layer1": "item/fiji_water",
+        "layer2": "item/potion"
+    }
+}
