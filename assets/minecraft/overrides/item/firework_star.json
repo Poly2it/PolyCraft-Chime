@@ -3,10 +3,10 @@
     {
       "predicate": {
         "nbt": {
-          "display": {
-            "Name": '{"extra":[{"text":"ZoyBux"}],"text":""}'
-          }
-        }
+  "item": {
+    "id": "zoybux"
+  }
+}
       },
       "model": "item/zoybux"
     }
