@@ -3,10 +3,11 @@
     {
       "predicate": {
         "nbt": {
-  "display": {
-    "Name": "[{\"text\":\"Fork\",\"italic\":false}]"
-  }
- }
+          "display": {
+            "Name": "[{\"text\":\"Fork\",\"italic\":false}]
+          }
+        }
+      },
       "model": "item/fork"
     }
   ]
