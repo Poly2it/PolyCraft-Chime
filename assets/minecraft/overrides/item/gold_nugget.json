@@ -1,0 +1,12 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "MYTHIC_TYPE": "LuxGold2022"
+}
+      },
+      "model": "item/luxidoorian_gold"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "display": {
+    "Name": "[{\"text\":\"Fork\",\"italic\":false}]"
+  }
+ }
+      "model": "item/fork"
+    }
+  ]
+}
