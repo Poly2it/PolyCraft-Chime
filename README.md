@@ -1,4 +1,4 @@
-# PolyCraft-Chime
+# <image src="https://cdn.discordapp.com/attachments/963527552566177802/982654873751392297/pack_256_nooff.png" style="height: 24px"> PolyCraft-Chime
 
 Work-in-progress Chime API resource-pack for the PolyCraft Minecraft server.  
 Not affiliated with Minecraft, Chime, PolyCraft or PolyTopia.
@@ -29,6 +29,45 @@ Not affiliated with Minecraft, Chime, PolyCraft or PolyTopia.
     </td>
     <td>
       Pharaoh's Wrath
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982652419466985472/armored_wings_256.png" style="height: 32px;">
+    </td>
+    <td>
+      Armored Wings
+    </td>
+  </tr>
+    <td>
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982652713596756028/fiji_water_256.png" style="height: 32px;">
+    </td>
+    <td>
+      Fiji Water
+    </td>
+  </tr>
+  </tr>
+    <td>
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982652835231592528/luxidoorian_gold_256.png" style="height: 32px;">
+    </td>
+    <td>
+      Luxidoorian Gold
+    </td>
+  </tr>
+  </tr>
+    <td>
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982653293123747900/midjiwel_256.png" style="height: 32px;">
+    </td>
+    <td>
+      Midjiwel
+    </td>
+  </tr>
+  </tr>
+    <td>
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982653429979701288/qui_qui_feather_256.png" style="height: 32px;">
+    </td>
+    <td>
+      Qui-Qui Feather
     </td>
   </tr>
 </table>
