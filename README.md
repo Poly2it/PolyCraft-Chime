@@ -25,7 +25,7 @@ Not affiliated with Minecraft, Chime, PolyCraft or PolyTopia.
   </tr>
   <tr>
     <td>
-      <image src="https://cdn.discordapp.com/attachments/963527552566177802/963530682955616337/pharaohs_wrath_256.png" style="height: 32px;">
+      <image src="https://cdn.discordapp.com/attachments/963527552566177802/982683856698237088/pharaohs_wrath_256.png" style="height: 32px;">
     </td>
     <td>
       Pharaoh's Wrath
