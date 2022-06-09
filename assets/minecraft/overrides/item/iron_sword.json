@@ -1,0 +1,22 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "nbt": {
+  "display": {
+    "Lore": [
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"Heroic Heft III\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"gray\",\"text\":\"Parry\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_purple\",\"text\":\"The Vengir are famous for their \"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_purple\",\"text\":\"sturdy, durable and reliable swords.\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_purple\",\"text\":\"Crafted to sacrifice speed for\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_purple\",\"text\":\"raw power and defense, this\"}],\"text\":\"\"}",
+      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"dark_purple\",\"text\":\"sword is nothing to scoff at.\"}],\"text\":\"\"}"
+    ]
+  }
+}
+      },
+      "model": "item/vengir_claymore"
+    }
+  ]
+}
