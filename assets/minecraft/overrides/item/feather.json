@@ -3,15 +3,15 @@
     {
       "predicate": {
         "nbt": {
-  "PublicBukkitValues": {
-    "cubescocktail:item-id": "7c7521b5-a735-4713-a0ac-35c2570ac3d3"
-  },
-  "display": {
-    "Lore": [
-      "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"Majestic flap flap\"}],\"text\":\"\"}"
-    ],
-    "Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"text\":\"Qui-Qui Feather\"}],\"text\":\"\"}"
-  }
+          "PublicBukkitValues": {
+            "cubescocktail:item-id": "7c7521b5-a735-4713-a0ac-35c2570ac3d3"
+          },
+          "display": {
+            "Lore": [
+              "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"color\":\"green\",\"text\":\"Majestic flap flap\"}],\"text\":\"\"}"
+            ],
+            "Name": "{\"extra\":[{\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false,\"text\":\"Qui-Qui Feather\"}],\"text\":\"\"}"
+          }
         }
       },
       "model": "item/qui_qui_feather"
